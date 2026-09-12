@@ -1,0 +1,24 @@
+{
+  "name": "testeautomateplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasieiGabrielDaniel/TesteAutomatePlaywright.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnastasieiGabrielDaniel/TesteAutomatePlaywright/issues"
+  },
+  "homepage": "https://github.com/AnastasieiGabrielDaniel/TesteAutomatePlaywright#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.4.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
